@@ -11,7 +11,7 @@
 
 1. HTML 定位
 2. HTML 的结构、标签及其组成部分
-3. Meta标签的作用和意义
+3. 头部及Meta标签的作用和意义
 4. SEO（Search Engine Optimization，搜索引擎优化）
 5. HTML 基本的性能优化
 

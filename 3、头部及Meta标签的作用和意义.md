@@ -34,6 +34,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <!-- 优先使用 IE 最新版本和 Chrome -->
 ```
 
+- 简单SEO
+
 ```html
 <meta name="description" content="不超过150个字符"> <!-- 页面描述 -->
 <meta name="keywords" content=""> <!-- 页面关键词 -->

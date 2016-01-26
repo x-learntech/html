@@ -31,5 +31,5 @@
 
 PS：**传送门：[w3c中国](http://www.chinaw3c.org/ "w3c中国")**
 
-
+更多学习资料请查看：[https://github.com/imruxin/front-end-study-collect](https://github.com/imruxin/front-end-study-collect)
 

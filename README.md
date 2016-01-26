@@ -29,6 +29,5 @@
 
 PS：**传送门：[w3c中国](http://www.chinaw3c.org/ "w3c中国")**
 
-部分资料来源：[https://github.com/iamjoel/front-end-note](https://github.com/iamjoel/front-end-note)
 
 

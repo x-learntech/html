@@ -79,6 +79,7 @@ content 参数：
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico"> <!-- 添加 favicon icon -->
 <meta name="google" value="notranslate"> <!-- 禁止 Chrome 浏览器中自动提示翻译 -->
 <meta http-equiv="Cache-Control" content="no-siteapp"><!-- 禁止百度转码 -->
+<meta name="wap-font-scale" content="no"><!--禁止UC优化字体放大-->
 <meta name="renderer" content="webkit"> <!-- 360 使用Google Chrome Frame -->
 
 ```
